@@ -1,7 +1,7 @@
 // Base inicial
 window.restaurantes = [
   {
-    "imagen": "americana.jpg",
+    "imagen": "../img/asiatica.jpg",
     "nombre": "Panda Expres",
     "ubicacion": "Polanco",
     "costo": "$",
@@ -11,7 +11,7 @@ window.restaurantes = [
   },
   
   {
-    "imagen": "vegetariana.jpg",
+    "imagen": "../img/vegetariana.jpg",
     "nombre": "Green Grass Condesa",
     "ubicacion": "Condesa",
     "costo": "$$",
@@ -21,7 +21,7 @@ window.restaurantes = [
     
   },
   {
-    "imagen": "asiatica.jpg",
+    "imagen": "../img/asiatica.jpg",
     "nombre": "Sushi MX Antojería Japonesa",
     "ubicacion": "Escandón",
     "costo": "$$",
@@ -30,7 +30,7 @@ window.restaurantes = [
     "mapa":"https://goo.gl/H1QpgC"
   },
   { 
-    "imagen": "americana.jpg",
+    "imagen": "../img/americana.jpg",
     "nombre": "Pinche Gringo BBQ",
     "ubicacion": "Anzures",
     "costo": "$$$$",
@@ -39,7 +39,7 @@ window.restaurantes = [
     "mapa": "https://goo.gl/U1hVna"
   },
   { 
-    "imagen": "mexicana.jpg",
+    "imagen": "../img/mexicana.jpg",
     "nombre": "WeliK",
     "ubicacion": "Roma",
     "costo": "$",
@@ -48,7 +48,7 @@ window.restaurantes = [
     "mapa":"https://goo.gl/maps/SyQjpXHxTS62"
   },
   { 
-    "imagen": "mexicana.jpg",
+    "imagen": "../img/mexicana.jpg",
     "nombre": "Taquería la Roma",
     "ubicacion": "Roma",
     "costo": "$$",
@@ -57,7 +57,7 @@ window.restaurantes = [
     "mapa":"https://goo.gl/maps/RuEA1ZTnheq"
   },
   {
-    "imagen": "mexicana.jpg",
+    "imagen": "../img/mexicana.jpg",
     "nombre": "El Parnita",
     "ubicacion": "Roma Norte",
     "costo": "$$",
@@ -66,7 +66,7 @@ window.restaurantes = [
     "mapa":"https://goo.gl/maps/Xy54s2hStKC2"
   },
   {
-    "imagen": "asiatica.jpg",
+    "imagen": "../img/asiatica.jpg",
     "nombre": "Mog Bistro",
     "ubicacion": "Roma Norte",
     "costo": "$$$",
@@ -75,7 +75,7 @@ window.restaurantes = [
     "mapa":"https://goo.gl/maps/gKQLcMZ87nv"
   },
   {
-    "imagen": "argentina.jpg",
+    "imagen": "../img/argentina.jpg",
     "nombre": "Quebracho Condesa",
     "ubicacion": "Condesa",
     "costo": "$$$",
@@ -84,7 +84,7 @@ window.restaurantes = [
     "mapa":"https://goo.gl/maps/untoNYvUFdJ2"
   },
   {
-    "imagen": "argentina.jpg",
+    "imagen": "../img/argentina.jpg",
     "nombre": "Escarapela Condesa",
     "ubicacion": "Condesa",
     "costo": "$$$",
@@ -93,7 +93,7 @@ window.restaurantes = [
     "mapa":"https://goo.gl/maps/xoBeQDK6HWR2"
   },
   {
-    "imagen": "española.jpg",
+    "imagen": "..//img/española.jpg",
     "nombre": "Centro Castellano Camino Real",
     "ubicacion": "Anzures",
     "costo": "$$$",
@@ -102,7 +102,7 @@ window.restaurantes = [
     "mapa":"https://goo.gl/maps/Q4JuruUo8er"
   },
   {
-    "imagen": "española.jpg",
+    "imagen": "..//img/española.jpg",
     "nombre": "Torre de Castilla",
     "ubicacion": "Polanco",
     "costo": "$$$$",
@@ -111,7 +111,7 @@ window.restaurantes = [
     "mapa":"https://goo.gl/maps/pmpk5HNyxau"
   },
   {
-    "imagen":"española.jpg",
+    "imagen":"..//img/española.jpg",
     "nombre": "Casa Hervia Polanco",
     "ubicación": "Polanco",
     "costo": "$$$",
@@ -120,7 +120,7 @@ window.restaurantes = [
     "mapa":"https://goo.gl/maps/VPEKjAhCCB12"
   },
   {
-    "imagen":"española.jpg",
+    "imagen":"..//img/española.jpg",
     "nombre": "La Marroquina",
     "ubicacion": "Polanco",
     "costo": "$$$$",
@@ -129,7 +129,7 @@ window.restaurantes = [
     "mapa":"https://goo.gl/maps/dxKrdjp2yCn"
   },
   {
-    "imagen": "italiana.jpg",
+    "imagen": "../img/italiana.jpg",
     "nombre": "Antica Forneria",
     "ubicacion": "Portales Norte",
     "costo": "$$$",
@@ -138,7 +138,7 @@ window.restaurantes = [
     "mapa":"https://goo.gl/maps/6wqwYkhpxW72"
   },
   {
-    "imagen": "italiana.jpg",
+    "imagen": "../img/italiana.jpg",
     "nombre": "Macelleria Roma",
     "ubicacion": "Roma Norte",
     "costo": "$$",
@@ -147,7 +147,7 @@ window.restaurantes = [
     "mapa":"Macelleria Roma"
   },
   {
-    "imagen": "italiana.jpg",
+    "imagen": "../img/italiana.jpg",
     "nombre": "Trattoria Giacovanni",
     "ubicacion": "Condesa",
     "costo": "$$$",
@@ -156,7 +156,7 @@ window.restaurantes = [
     "mapa":"https://goo.gl/maps/cx6a5ap9dZw"
   },
   {
-    "imagen": "italiana.jpg",
+    "imagen": "../img/italiana.jpg",
     "nombre": "Vecchio Forno",
     "ubicacion": "Roma Norte",
     "costo": "$$$$",
@@ -165,7 +165,7 @@ window.restaurantes = [
     "mapa":"https://goo.gl/maps/Pjfw9oCFCfT2"
   },
   {
-    "imagen": "italiana.jpg",
+    "imagen": "../img/italiana.jpg",
     "nombre": "Casa D´Italia",
     "ubicacion": "Condesa",
     "costo": "$$$$",
@@ -174,7 +174,7 @@ window.restaurantes = [
     "mapa":"https://goo.gl/maps/ZE6bCU826RQ2"
   },
   {
-    "nombre": "italiana.jpg",
+    "nombre": "../img/italiana.jpg",
     "nombre": "Los Cancinos Cabrera",
     "ubicacion": "",
     "costo": "",
@@ -183,7 +183,7 @@ window.restaurantes = [
     "mapa":""
   },
   {
-    "imagen":"vegetariana.jpg",
+    "imagen":"../img/vegetariana.jpg",
     "nombre": "Forever Polanco",
     "ubicacion": "Polanco",
     "costo": "$$$",
@@ -192,7 +192,7 @@ window.restaurantes = [
     "mapa":"https://goo.gl/maps/Vocx9YqcgwS2"
   },
   {
-    "imagen":"vegetariana.jpg",
+    "imagen":"../img/vegetariana.jpg",
     "nombre": "Vegan Inc.",
     "ubicacion": "Polanco",
     "costo": "$$",
@@ -201,7 +201,7 @@ window.restaurantes = [
     "mapa":"https://goo.gl/maps/JnNqC6Cyt9x"
   },
   {
-    "imagen":"vegetariana.jpg",
+    "imagen":"../img/vegetariana.jpg",
     "nombre": "Cosecha Natural",
     "ubicacion": "Polanco",
     "costo": "$$",
@@ -210,7 +210,7 @@ window.restaurantes = [
     "mapa":"https://goo.gl/maps/xCp8PcqfTds"
   },
   {
-    "imagen":"vegetariana.jpg",
+    "imagen":"../img/vegetariana.jpg",
     "nombre": "Fresh Garden Salads",
     "ubicacion": "Polanco",
     "costo": "$$",
@@ -219,7 +219,7 @@ window.restaurantes = [
     "mapa":"https://goo.gl/maps/GivaGbFC5RT2"
   },
   {
-    "imagen":"vegetariana.jpg",
+    "imagen":"../img/vegetariana.jpg",
     "nombre": "Pan Comido Anzures",
     "ubicacion": "Anzures",
     "costo": "$$$",
@@ -228,7 +228,7 @@ window.restaurantes = [
     "mapa":"https://goo.gl/maps/xCq12GdwV272"
   },
   {
-    "imagen":"americana.jpg",
+    "imagen":"../img/americana.jpg",
     "nombre": "Buffalucas",
     "ubicacion": "Condesa",
     "costo": "$$$",
@@ -237,7 +237,7 @@ window.restaurantes = [
     "mapa":"https://goo.gl/maps/snmHMRTgQCP2"
   },
   {
-    "imagen":"vegetariana.jpg",
+    "imagen":"../img/vegetariana.jpg",
     "nombre": "Forever Polanco",
     "ubicacion": "Polanco",
     "costo": "$$$",
@@ -246,7 +246,7 @@ window.restaurantes = [
     "mapa":"https://goo.gl/maps/Vocx9YqcgwS2"
   },
   {
-    "imagen":"americana.jpg",
+    "imagen":"../img/americana.jpg",
     "nombre": "Merendero Condesa",
     "ubicacion": "Condesa",
     "costo": "$$",
@@ -255,7 +255,7 @@ window.restaurantes = [
     "mapa":"https://goo.gl/maps/ZY2wXSLCix82"
   },
   {
-    "imagen":"americana.jpg",
+    "imagen":"../img/americana.jpg",
     "nombre": "Bawa Bawa Barbacue",
     "ubicacion": "Roma Norte",
     "costo": "$$",
@@ -264,7 +264,7 @@ window.restaurantes = [
     "mapa":"https://goo.gl/maps/RafKVihXx3R2"
   },
   {
-    "imagen":"argentina.jpg",
+    "imagen":"../img/argentina.jpg",
     "nombre": "La Pizzeria Argentina",
     "ubicacion": "Roma Sur",
     "costo": "$$$",

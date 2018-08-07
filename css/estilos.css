@@ -1,0 +1,17 @@
+* {
+  padding: 0px; 
+  margin: 0; 
+  box-sizing: border-box;
+}
+
+/* .splash{ 
+  width: 80%;
+  height: 80%;
+  position: center; 
+  font-family: 'Spinnaker', sans-serif; */
+/* } */
+.cardRestaurante p{
+ width: 30%;
+ background-color: beige;
+ border: 1px solid black;
+}

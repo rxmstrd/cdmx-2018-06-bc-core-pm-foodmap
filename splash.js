@@ -1,5 +1,7 @@
-window.onload =()=> {
-  window.setTimeout("redirect()",3000);
-  const redireccionar = () =>
-  window.location = "../index.html"
+window.onload = () => {
+  window.setTimeout('redirect()', 3000);
+};
+
+const redirect = () => {
+  window.location = 'views/index.html';
 };
