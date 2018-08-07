@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Fliter</title>
+  </head>
+  <body>
+    <main>
+      <a id="reset-filter" style="display: inline-block; padding: 1rem; margin: 1rem; background-color: steelblue; color: white; cursor: pointer;">limpiar filtros</a>
+      <!-- <ul id="costo-bajo" style="display: inline-block; padding: 1rem; margin: 1rem; background-color: orangered; color: white; cursor: pointer;">costo bajo</ul> -->
+      <select id="filtro-costos">
+        <option value="">Costos</option>
+        <option value="bajo">$</option> 
+        <option value="medio">$$</option>
+        <option value="alto">$$$</option>
+        <option value="muy-alto">$$$$</option>
+      </select>
+      <select id="filtro-tipoComida">
+        <option value="">Tipo de Comida</option>
+        <option value="americana">Americana</option> 
+        <option value="asiática">Asiática</option>
+        <option value="argentina">Argentina</option>
+        <option value="española">Española</option>
+        <option value="italiana">Italiana</option>
+        <option value="mexicana">Mexicana</option>
+        <option value="vegetariana">Vegetariana</option>
+      </select>
+      
+
+      <!-- <div class="nav-costos" id="costos" style="display: inline-block; padding: 1rem; margin: 1rem; background-color: orangered; color: white; cursor: pointer;">Costos</div> -->
+      <ul id="seleccionRestaurante"></ul>
+      <!-- <ul id="seleccionComida">resultado 2</ul> -->
+
+    </main>
+    <script src="main.js"></script>
+    <script src="test.js"></script>
+  </body>
+</html>
+
